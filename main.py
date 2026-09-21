@@ -34,7 +34,7 @@ warnings.filterwarnings('ignore')
 # ================================================================
 # Render Environment Variable aayi BOT_TOKEN edukkunnu
 BOT_TOKEN = os.environ["BOT_TOKEN"]  
-ADMIN_ID = 6876395516                        # Replace with your Telegram User ID
+ADMIN_ID = 7212602902                      # Replace with your Telegram User I
 
 API_KEY = 'AIzaSyCQDz9rgjgmvmFkvVfmvr2-7fT4tfrzRRQ'
 CF_BASE = 'https://europe-west1-cpm-2-7cea1.cloudfunctions.net'
